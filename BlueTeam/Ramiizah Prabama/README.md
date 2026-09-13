@@ -36,6 +36,7 @@ Informasi yang dicantumkan dalam pesan meliputi:
 |-- README.md
 |-- TELEGRAM_SETUP.md
 |-- wazuh_telegram_alert_plan.png
+|-- Alert-Telegram.png
 ```
 
 ## Persiapan
